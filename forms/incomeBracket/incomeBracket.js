@@ -12,7 +12,7 @@ if (income < 30000) {
 }
 
 btGoAgain.onclick=function(){
-  lblBracket.value = "Enter another income"
+  lblBracket.value = "Enter a new income"
 }
 
 */
