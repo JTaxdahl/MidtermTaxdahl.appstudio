@@ -1,3 +1,4 @@
+/*
 btSubmit.onclick=function(){
   let income = intIncome.value
   let bracket = `With your income of $${income}, you are in a tax bracket of `
@@ -13,3 +14,6 @@ if (income < 30000) {
 btGoAgain.onclick=function(){
   lblBracket.value = "Enter another income"
 }
+
+*/
+
